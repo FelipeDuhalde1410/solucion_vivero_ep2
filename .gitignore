@@ -1,0 +1,14 @@
+# Maven / compilados
+target/
+*.class
+*.jar
+dependency-reduced-pom.xml
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Datos que genera la aplicacion al ejecutarla
+/interiores.json
+/exteriores.json
